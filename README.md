@@ -19,6 +19,7 @@ colab 링크: https://colab.research.google.com/drive/1NMwR42akhjin7VCTRWms6LZPg
 test 동영상 링크: https://youtu.be/wjznjM42Ei8
 
 mediapipe/mediapipe/python/solutions/hands.py
+
 mediapipe/mediapipe/python/solutions/hands_test.py 
 참고하였습니다.
 
